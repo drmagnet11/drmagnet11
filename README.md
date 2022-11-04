@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drmagnet11
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML/CSS and C++
+- 🌱 I’m currently learning HTML and C++
 - 💞️ I’m looking to collaborate on C++ Development
 - 📫 How to reach me drmagnet1234@gmail.com
 
